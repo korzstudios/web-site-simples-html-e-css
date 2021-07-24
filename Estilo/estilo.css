@@ -1,0 +1,22 @@
+/*estilo na pagina css*/
+
+body{
+     background-image:url("wal.png");
+     background-size:cover;
+			
+	
+		
+}
+
+h1{
+  color: #b900ff;
+}
+
+.l-p{
+				color: #ff3400;
+}
+.r-0{
+				color: #ff00b2;
+}
+
+/*obrigado por vc visitar esse arquivo nesse repositório*/
